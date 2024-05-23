@@ -1,0 +1,31 @@
+.urine-strip-analyzer {
+    margin-left: 400px;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.image-upload {
+    margin-bottom: 10px;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: default;
+}
