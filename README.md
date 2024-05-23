@@ -2,6 +2,8 @@
 
 This project is a web application that helps you analyze urine strips easily and conveniently.
 
+https://github.com/RohanS2003/urine_strip_analyzer/assets/118051784/ebe603fc-5b9a-4bea-ada1-c1e8d590c37e
+
 **How it works:**
 
 1. **Upload an image of your urine strip:**
