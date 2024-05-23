@@ -1,0 +1,9 @@
+django
+rest-framework
+django-cors-headers
+opencv-python
+drf-yasg
+react
+react-dom
+react-router-dom
+axios
